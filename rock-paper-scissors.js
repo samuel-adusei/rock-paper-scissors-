@@ -12,3 +12,8 @@ else if (computerChoice < 0.67) {
 else {
 	computerChoice = "scissors";
 }
+
+var compare = function(choice1 == choice2)	{
+	if (choice1 == choice2)
+		return "this result is a tie"
+};
